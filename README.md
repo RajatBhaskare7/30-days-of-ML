@@ -75,11 +75,28 @@ Building a pipeline using scikit learn,
 Hyperparameter tuning.
 
 Day 20:
-Random forest algorithm
+Random forest algorithm.
 
 Day 21:
 KNN Algorithm
 K-means clustering algorithm
 
 Day 22 and 23:
-Started price prediction project
+Started price prediction project 
+
+Day 24 and 25:
+Finally completed price prediction concept project.
+
+
+
+Day 26:
+Introduction to NLP .
+
+Day 27and 28:
+Tokenization,stemming ,lemmatization ,intuition.
+
+Day 29:
+What is feature engineering.
+
+Day 30:
+Outlier detection and removal using IQR.
